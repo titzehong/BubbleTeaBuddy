@@ -4,7 +4,7 @@ A telegram chat bot which tells you the nearest bubble tea shop as well as recom
 
 ## Training
 
-Tree based classifiers are used to detect intent of incoming user messages. To train the intent classifier user [a relative link](intent_trainer.ipynb)
+Tree based classifiers are used to detect intent of incoming user messages. To train the intent classifier user [intent_trainer.ipynb](intent_trainer.ipynb)
 
 
 ## Troubleshooting
