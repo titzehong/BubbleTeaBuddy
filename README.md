@@ -30,3 +30,5 @@ with open(filename, 'r', encoding="utf-8") as file:
   ...
 ```
 # BubbleTeaBuddy
+
+A telegram chat bot which tells you the nearest bubble tea shop as well as recommends you drinks. Takes in free text. 
