@@ -1,6 +1,10 @@
-# BubbleTeaBuddy
+# Bubble Tea Buddy
 
-A telegram chat bot which tells you the nearest bubble tea shop as well as recommends you drinks. Takes in free text. 
+A telegram chat bot which tells you the nearest bubble tea shop as well as recommends you drinks. 
+
+## Training
+
+Tree based classifiers are used to detect intent of incoming user messages. To train the intent classifier.
 
 
 ## Troubleshooting
