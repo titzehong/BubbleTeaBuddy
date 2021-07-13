@@ -1,6 +1,7 @@
-# Chatbot project
+# BubbleTeaBuddy
 
-This folder contains the starting code for the chatbot project.
+A telegram chat bot which tells you the nearest bubble tea shop as well as recommends you drinks. Takes in free text. 
+
 
 ## Troubleshooting
 
@@ -29,6 +30,3 @@ If this doesn't work, you can explicitly specify the encoding when opening files
 with open(filename, 'r', encoding="utf-8") as file:
   ...
 ```
-# BubbleTeaBuddy
-
-A telegram chat bot which tells you the nearest bubble tea shop as well as recommends you drinks. Takes in free text. 
